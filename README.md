@@ -1,5 +1,5 @@
 # Analysis-of-Netflix-Data
-Project portfolio addition.
+Project portfolio - Linear Regression - Data Analysis - Data Exploration - Data Manipulation
 
 
 

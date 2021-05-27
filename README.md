@@ -7,7 +7,7 @@ Netflix is good.
 
 Why is it good?
 
-Because of the amount of data it has that we can play with!
+Because of the amount of data it has that we can manipulate!
 
 This project demostrates:
 
